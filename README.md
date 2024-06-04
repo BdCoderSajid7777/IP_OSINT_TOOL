@@ -9,11 +9,11 @@ apt install toilet -y
 apt install curl -y
 ```
 ```
-git clone
+git clone https://github.com/BdCoderSajid7777/IP_OSINT_TOOL
 ```
 ```
-cd
+cd IP_OSINT_TOOL
 ```
 ```
-bash
+bash Ip.sh
 ```
